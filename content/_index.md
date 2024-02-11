@@ -1,0 +1,2 @@
+## Bienvenue
+Ce site est une sorte de livre de bord en ligne de _Solveig_ mais vous y trouverez également quelques informations concertant cette série de bateaux nommés S&S-34 ou Morning-34 qui dès leurs sortis ont eu des succès en courses.
