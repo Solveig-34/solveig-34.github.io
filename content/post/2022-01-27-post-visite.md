@@ -35,19 +35,19 @@ Après divers recherches, au final le trajet sera :
 > Ce qui me fait une durée de voyage de : **~31h**
 
 Le vendeur me récupère à l'arrêt de bus, il habite juste à coté, nous passerons avec sa compagne une agréable fin de soirée en faisant chacun des efforts d'expression et de compréhension en Anglais. Je ne pratique que l'Anglais écris, à l'oral j'avoue ne pas du tout être à leur niveau, les applications de traduction nous aident à nous comprendre lorsque certains mots ou expressions sont inconnues ou trop mal prononcées.
-Le lendemain matin, un petit déjeuné, puis nous partons visité le bateau. Ebeltoft à deux ports, un plus ancien proche de la ville ou des activités de pèche continue à s'exercer. Un port de plaisance à été construit un peu plus loin, à 10min en voiture, nous nous y rendons.
+Le lendemain matin, un petit déjeuné avalé, nous partons visité le bateau. Ebeltoft à deux ports, un plus ancien ce travant proche de la ville ou des activités de pèche continue à s'exercer. Un autre port de plaisance à été construit un peu plus loin, à 10min en voiture, nous nous y rendons.
 
 
 
 ### La Visite :
-N'étant pas un expert maritime, de nombreuses interrogations m'ont traversées l'esprit avant / pendant / après cette visite. Au vu de la distance parcourue, ne passer que 2h sur le bateau est un temps ridiculement faible par rapport à une réelle expertise, de toute façon, il faut bien l'admettre je n'aurai qu'une appréciation très partielle du bateau. Mais ne se pose pas encore la décision d'un choix, l'idée d'une visite est de vérifier / valider certains points techniques qui aideront ensuite à la prise de décision.
+N'étant pas un expert maritime, de nombreuses interrogations m'ont traversées l'esprit avant / pendant / après cette visite. Au vu de la distance parcourue, ne passer que 2h sur le bateau est un temps ridiculement faible par rapport à une réelle expertise, de toute façon, il faut bien l'admettre je n'aurai qu'une appréciation très partielle du bateau. La prise de décision finale, n'est pas à l'ordre du jour, l'idée de cette visite est de vérifier et valider certains points techniques qui aideront ensuite à la prise de décision.
 
   * Le vendeur m'à prévenu avant la visite, certains points ne pourront pas être évalués :
     - Le moteur : il est hiverné, vidé de son eau pour l’hiver afin d'éviter d'éventuels gels...
-    - Une navigation d'essai : nous ne pourrons pas non plus essayer le bateau sous voile puisque le port en cette saison n'est pas ouvert. C'est un bassin      fermé par une écluse qui ré-ouvre fin Mars début Avril.
+    - Une navigation d'essai : nous ne pourrons pas non plus essayer le bateau sous voile puisque le port en cette saison n'est pas ouvert. C'est un bassin fermé par une écluse qui ré-ouvre fin Mars début Avril.
     - Sortie d'eau : Je ne pourrai pas non plus voir le bateau hors de l'eau _(même point identique : Sortie de bassin impossible à cette période de l'année)_
 
-Au vu des points cité ci dessus, il est fort à parier que des personnes raisonnable n'auraient fait le déplacement. Les échanges par mail avec le vendeur étant simple, précis, et réalisé dans un esprit de compréhension mutuel malgré la barrière de la langue, je me dis que malgré les inconvénients cité ci-dessus une visite vaut quand même le coup...
+Au vu des points cité ci dessus, il est fort à parier que des personnes raisonnable n'auraient fait le déplacement. Les échanges par mail avec le vendeur étant simple, précis, et réalisé dans un esprit de compréhension mutuel. Malgré la barrière de la langue et les inconvénients cité ci-dessus une visite vaut quand même le coup...
 Je ne cesse de me méfier de moi même, afin de conserver un certain recul, penser à tout ce que je veux vérifier ou prendre en photo, car je ne sais pas pourquoi, c'est un peu irrationnel mais j'ai le sentiment que ce bateau me plaît. Il ne faut alors pas entrer dans une sorte d’auto-persuasion que "tout vas bien"... rester lucide...
 
 
