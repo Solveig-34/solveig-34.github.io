@@ -56,6 +56,6 @@ Se pose alors la question d'arriver à un choix : quand à t on assez d'informat
  * Les éléments factuels suffisent ils à eux seul ou bien existe il une part non négligeable de subjectivité. 
  * Nos décisions sont elles entièrement guidées par des indicateurs cartésiens issus à 100% d'éléments factuels, ou une part d'intuition, de subjectivité vient elle se mêler à un acte, un choix.
 
-Dans mon cas, je dois concéder que je me rendais sur place afin de visiter le bateau, mais aussi de rencontrer la personne qui vendait le bateau. La relation avec le vendeur est pour moi quelque chose d’assez important. L'entretien, les évolutions réalisées par l'ancien propriétaire, son histoire avec le bateau, ses intentions futures etc... les travaux qu'il aurait mené s'il avait conservé bref autant de discussion qui m'aide à prendre cette fameuse décision. 
+Dans mon cas, je dois concéder que je me rendais sur place afin de visiter le bateau, mais également pour rencontrer la personne qui vendait le bateau. La relation avec le vendeur est pour moi quelque chose d’assez important. L'entretien, les évolutions réalisées par l'ancien propriétaire, son histoire avec le bateau, ses intentions futures etc... les travaux qu'il aurait mené s'il avait conservé bref autant de discussion qui m'aide à prendre cette fameuse décision. 
 
 

@@ -10,29 +10,6 @@ tags:
   - Convoyage
   - Danemark
 
-
-
-
-
-
-
-
-
-gallery11:
-  - url: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_071701.jpg
-    image_path: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_071701.jpg
-    alt: "Paris - Bercy"
-    title: "Paris - Bercy"
-  - url: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_082531.jpg
-    image_path: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_082531.jpg
-    alt: "Paris - Bercy"
-    title: "Paris - Bercy"
-  - url: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_161114.jpg
-    image_path: /assets/images/Galleries/Convoyage_Part_1/jour6/20220521_161114.jpg
-    alt: "La Rochelle"
-    title: "La Rochelle"
-
-
 ---
 
 Après de nombreux préparatif, la date est fixée, nous nous retrouverons à Ebeltoft le 11 Mai 2022 afin de commencer à convoyer Solveig vers le sud...
@@ -53,15 +30,15 @@ L'arrivée sur Ebeltoft est simple, sans danger particulier. Guidé par le propr
 
 Les jours suivant nous attendrons une météo plus clémente, nous n'avons pas envie de découvrir le bateau dans des conditions musclées.
 Afin de laisser passer ce coup de vent, nous attendrons 3 jours sur place, nous avions également une liste de chose à faire avant de partir :
-  - mettre en place un émetteur/récepteur AIS _(acquis et testé avant le départ de La Rochelle)_
-  - mettre en place une minie centrale de navigation composée d'un RaspberryPi sur lequel est installé entre autre : AvNav avec les cartes https://o-charts.org/ . _Idem installé et testé sur La Rochelle._
-  - installer des chargeurs de prise USB _(qui seront d'ailleurs pas assez puissant)_
-  - installer une batterie de service qui tienne la charge car nous nous sommes rapidement rendu compte que celle présente à bord, bien que chargée, se déchargeai très/trop rapidement.
-  - tester le panneau solaire et lui trouver une place sur le pont et à l'intérieur
-  - plier l'annexe, lui trouver une place, l'amarrer.
-  - se familiariser avec le gréement courant
-  - réaliser l'avitaillement _(merci à l'ancien propriétaire et sa femme de nous avoir véhiculé entre divers magasins)_
-  - passer du bon temps avec l'ancien propriétaire accompagné d'un amis à lui et découvrir la vie nocturne à la Danoise. Bar - Billard / Fin de soirée sur le bateau.
+  - [x] mettre en place un émetteur/récepteur AIS _(acquis et testé avant le départ de La Rochelle)_
+  - [x] mettre en place une minie centrale de navigation composée d'un RaspberryPi sur lequel est installé entre autre : AvNav avec les cartes https://o-charts.org/ . _Idem installé et testé sur La Rochelle._
+  - [x] installer des chargeurs de prise USB _(qui seront d'ailleurs pas assez puissant)_
+  - [x] installer une batterie de service qui tienne la charge car nous nous sommes rapidement rendu compte que celle présente à bord, bien que chargée, se déchargeai très/trop rapidement.
+  - [x] tester le panneau solaire et lui trouver une place sur le pont et à l'intérieur
+  - [x] plier l'annexe, lui trouver une place, l'amarrer.
+  - [x] se familiariser avec le gréement courant
+  - [x] réaliser l'avitaillement _(merci à l'ancien propriétaire et sa femme de nous avoir véhiculé entre divers magasins)_
+  - [x] passer du bon temps avec l'ancien propriétaire accompagné d'un amis à lui et découvrir la vie nocturne à la Danoise. Bar - Billard / Fin de soirée sur le bateau.
 
 Le reste du temps nous avons visité la ville, testé quelques restos sur place avec son lot de surprise culinaire.
 
@@ -80,7 +57,9 @@ Ebeltoft est une belle petite ville, mais en semaine, c'est très très vide. Le
 
 Finalement le coup de vent fini par passer, nous partons le *15 mai 2022* au matin.
 
-### Jour 1 : 
+### Jour 1 :
+> Ebeltoft vers Ballen
+
 _**15 Mai 2022**_, nous larguons les amarres d'Ebeltoft tôt vers 7h du matin. En sortie de port nous hissons les voiles, un vent léger de 8-10 noeuds nous est favorable. Nous recroisons les balises que nous avions repérées lors du petit convoyage entre les deux ports d'Ebeltoft. Quelques heures passent, le vent tombe comme prévu par la météo. On décide de démarrer le moteur pour ne pas perdre trop de temps. Le moteur démarre correctement, mais une bizarrerie survient : la poignée des gaz pourtant poussée en avant accélère bien le moteur , mais nous n’avançons pas plus vite sur l'eau... Retour au point neutre, poignée en arrière afin de voir si en marche arrière on se déplace dans la masse d'eau. Aucun effet sur la vitesse du bateau pas plus en avant qu'en arrière, à part une monté en régime du moteur, la vitesse du bateau ne varie pas ! Monté de Stress : nous n'avons pas de propulsion ... on regarde la carte pour savoir ou aller _(avec le peu de vent qui tient quand même)_. 
 
 Du fait de la présence de nombreuse îles, nous avons du réseau téléphonique. Nous en profitons pour passer un appel à l'ancien propriétaire. Il nous conseille de revenir sur nos pas afin d'atteindre un port près d'Ebeltoft ou des installations permettent de sortir le bateau de l'eau... Nous suivons ces conseils, deux-trois heures après nous sommes devant le port. L'ancien propriétaire nous préviens qu'un ferry vas partir à 13h, pour patienter nous tirons des bords devant le port. C'est tout de même une drôle de sensation : ne pas avoir de propulsion, d'être sur un bateau que l'on découvre, de se préparer à une entrée à la voile dans un port que l'on ne connais pas. L'ancien propriétaire et sa femme sont au port pour nous guider et nous aider pour l'amarrage, d'ailleurs nous les voyons faire de grands gestes au bout du môle... Un faible vent de travers nous permet de réaliser une approche correcte. Grâce à l'expérience de Cécile, en suivant ces conseils, nous enroulons au bon moment le génois, puis affalons la grand voile à temps, nous arrivons le long du môle doucement sur notre erre. 
@@ -118,7 +97,9 @@ Le reste de la journée sera calme, nous arriverons en fin de journée sur l'îl
 
 
 
-### Jour 2 : 
+### Jour 2 :
+> Ballen vers Spodsbjerg
+
 _**16 Mai 2022**_ Nous attendons l'ouverture de la station de carburant qui est disponible à partir du moment ou le maitre du port commence sa journée environ vers 9h00. Nous en profiterons pour vider _(dans une cuve de recyclage)_ le bidon d'essence  ne servant qu'à l'annexe, puisqu'elle est actuellement dégonflée et enroulée sur le pont afin de remplir ce bidon de 10 litres de gasoil. Le plein fait nous partons vers 10h, cap au sud avec un vent léger et un appuis moteur. Vers 14h nous passons proche de _Romsø_, une île privée du Grand Belt, au large de l'île de _Fyn_. Puis nous longeons un chenal et commençons à apercevoir les premiers cargos. Nous croisons également la route de ferry rapide réalisant les liaisons entre les nombreuses îles Danoises.
 
 Nous apercevons les deux piles immense mesurant 254 mètres de haut du pont _Storebæltsbroen_, nous nous dirigeons vers la partie droite du pont. Les cartes indiquent 18 mètres de haut sous le tablier du pont. Je ne connais pas exactement le tirant d'air de Solveig _(j'aurais bien entendu du prendre cette information)_ mais 18m ca nous semble suffisant, mais de combien... Ayant vu le pont de loin, l'approche paraît interminable... Nous passerons dessous avec un bonne marge _(après coup j'apprendrais que Solveig à un tirant d'air de 14m)_.
@@ -140,6 +121,8 @@ A la sortie du pont nous retrouverons un peu plus d'air correctement orienté po
 Une fois entré dans le port de _Spodsbjerg_ nous cherchons un catway plutôt que les pieux... Nous trouverons une place, sur le long ponton du carburant. Un rapide tour à pied afin de repérer les lieux, retour au bateau, fatigué, nous mangeons rapidement avant d'aller dormir.
 
 ### Jour 3 :
+> Spodsbjerg vers Kiel (Olympiahafen Schilksee)
+
 _**17 Mai 2022**_
 Le port de _Spodsbjerg_ est assez banal, puisque moderne, sans rien de particulier à voir, nous prendrons une douche, ferons un complément de gasoil et partirons en milieu de matinée direction Kiel.
 
@@ -175,6 +158,8 @@ A notre arrivé sur Kiel, nous restons sur la gauche de l'estuaire afin d’atte
 
 
 ### Jour 4 :
+> Kiel vers Rendsburg
+
 **18 Mai 2022** Cela fait maintenant  8 jours que nous sommes partis, il vas falloir penser à regagner la France afin de reprendre le travail. Kiel étant une grosse ville, nous commençons à chercher un port afin de laisser Solveig. Là ou nous sommes _(au port Olympique)_ ce n'est pas possible, la capitainerie nous à indiqué un autre port un peu plus au Sud ou nous pourrions éventuellement trouver de la place. Nous allons essayer...
 En fait au sein de l’estuaire de Kiel se trouve de nombreux de port, nous apprendrons plus tard qu'un grand nombre de ces ports sont en fait géré par la même entité.
 
@@ -186,10 +171,10 @@ Nous repartons de _Strande_ avec le plein de Gasoil en direction du port de _Sti
 
 {{< figure src="/images/Galleries/Convoyage_Part_1/jour4/openseamap-jour4.png" caption="Entre deux ports de Kiel">}}
 
-Le port de _Stickenhörn_ n'est pas très grand, toujours ces pieux ...   nous repérons un catway et nous nous amarrons à couple d'un Cata, apparemment personne ne se trouve à son bord. Un tour à la capitainerie, le _Hafenmeister (Chef de port)_ indique qu'il est éventuellement possible de laisser le bateau deux ou trois jours, mais une semaines ou plus, ce n'est pas du tout envisageable.  Et ajoute par ailleurs que cela ne sera pas facile dans l'estuaire de Kiel de trouver une place pour plusieurs semaines...
-C'est ici que nous comprenons que certains ports font parti du même groupement, qu'au sein de ce groupement de port, il n'y à aucune chance de trouver une place. 
+Le port de _Stickenhörn_ n'est pas très grand, et toujours ces pieux ...   nous repérons un catway finalement pas accessible _(peu de fond)_, nous finirons par nous amarrer à couple d'un Cata, apparemment personne ne se trouve à son bord. Un tour à la capitainerie, le _Hafenmeister (Chef de port)_ indique qu'il est éventuellement possible de laisser le bateau deux ou trois jours, mais une semaines ou plus, ce n'est pas du tout envisageable. Il ajoute par ailleurs que cela ne sera pas facile dans l'estuaire de Kiel de trouver une place pour plusieurs semaines...
+C'est ici que nous comprenons que certains ports font parti du même groupement ou consortium, qu'au sein de ce groupement de port, il n'y à aucune chance de trouver une place. 
 
-Au retour de la capitainerie, le stress commence légèrement à monter, car nous sommes un peu dans un cul de sac au sein de cet estuaire, s'il est réellement compliqué de trouver une place, on risque de rester bloqué ici un moment. D'autre part, ce qui complique un peu la situation est que contrairement aux Danois, les Allemands ne parlent pas tous Anglais. Il n'est pas rare de téléphoner à certains port et d'avoir du mal à échanger en Anglais _(je conviens que mon Anglais est loin d'être parfait, mais au moins il est possible de commencer une conversation)_. Pour couronner le tout, entre 12h et 16h les Allemands sont _"en pause"_, les ports reprennent donc leurs appels téléphoniques qu'à partir de 16h...
+Au retour de la capitainerie, le stress commence légèrement à monter, car nous sommes un peu dans un cul de sac au sein de cet estuaire, s'il est réellement compliqué de trouver une place, on risque de rester bloqué ici un moment. D'autre part, ce qui complique un peu la situation est que contrairement aux Danois, les Allemands ne parlent pas tous Anglais. Il n'est pas rare de téléphoner à certains port et d'avoir du mal à échanger en Anglais _(je conviens que mon Anglais est loin d'être parfait, mais au moins il est possible de commencer une conversation)_. Pour couronner le tout, entre 12h et 16h les Allemands sont _"en pause"_, les ports reprennent donc leurs activités et ne répondront au téléphone qu'à partir de 16h...
 
 Le Stress continue donc de monter...
 
@@ -250,7 +235,7 @@ On profite de la fin de journée pour prendre un apéro sur l'eau.
     {{< figure src="/images/Galleries/Convoyage_Part_1/jour4/20220518_192205.jpg" caption="Souvenir d'une bonne bière consommée sur le Canal" >}}
 {{< /gallery >}}
 
-Nous arrivons à proximité de _Rensburg_ il faut alors laisser le canal principal et bifurquer sur la droite. L'entrée dans ce bras de rivière à la nuit tombé est particulière. Elle semble étroite, et légèrement cachée par une végétation abondante. C'est aussi le fait de quitter le canal principal qui lui est très large. Puis nous longeons des anciens quais laissé à l'abandon, ou sont encore installé d'ancienne grue.
+Nous arrivons à proximité de _Rendsburg_ il faut alors laisser le canal principal et bifurquer sur la droite. L'entrée dans ce bras de rivière à la nuit tombé est particulière. Elle semble étroite, et légèrement cachée par une végétation abondante. C'est aussi le fait de quitter le canal principal qui lui est très large. Puis nous longeons des anciens quais laissé à l'abandon, ou sont encore installé d'ancienne grue.
 Mais ou s'arrêter, car à la suite du coup de téléphone à Kiel, j'avais recherché sur internet l'emplacement de la marina, et avait positionnée celle ci à un endroit de la rivière, mais dans ce coin, plusieurs marina sont très proches. Laquelle est-ce réellement... Nous visons l'emplacement initialement repéré, sans une réelle certitude, c'est une sorte de "bulle" sur le bord de la rivière.
 
 
