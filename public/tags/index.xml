@@ -8,20 +8,20 @@
     <language>fr</language>
     <managingEditor>youremail@domain.com (Solveig Sailboat)</managingEditor>
     <webMaster>youremail@domain.com (Solveig Sailboat)</webMaster>
-    <lastBuildDate>Thu, 04 Aug 2022 15:34:30 -0400</lastBuildDate><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 15:34:30 -0400</lastBuildDate><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Allemagne</title>
-      <link>https://username.github.io/tags/allemagne/</link>
-      <pubDate>Thu, 04 Aug 2022 15:34:30 -0400</pubDate>
+      <title>Belgique</title>
+      <link>https://username.github.io/tags/belgique/</link>
+      <pubDate>Fri, 12 Aug 2022 15:34:30 -0400</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
-      <guid>https://username.github.io/tags/allemagne/</guid>
+      <guid>https://username.github.io/tags/belgique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convoyage</title>
       <link>https://username.github.io/tags/convoyage/</link>
-      <pubDate>Thu, 04 Aug 2022 15:34:30 -0400</pubDate>
+      <pubDate>Fri, 12 Aug 2022 15:34:30 -0400</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
       <guid>https://username.github.io/tags/convoyage/</guid>
       <description></description>
@@ -30,9 +30,18 @@
     <item>
       <title>Hollande</title>
       <link>https://username.github.io/tags/hollande/</link>
-      <pubDate>Thu, 04 Aug 2022 15:34:30 -0400</pubDate>
+      <pubDate>Fri, 12 Aug 2022 15:34:30 -0400</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
       <guid>https://username.github.io/tags/hollande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allemagne</title>
+      <link>https://username.github.io/tags/allemagne/</link>
+      <pubDate>Thu, 04 Aug 2022 15:34:30 -0400</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/allemagne/</guid>
       <description></description>
     </item>
     

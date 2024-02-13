@@ -1,6 +1,6 @@
 ---
 title: "Convoyage Partie 1"
-subtitle: Ebeltoft  Rendsburg
+subtitle: de Ebeltoft à Rendsburg
 date: 2022-05-10T15:34:30-04:00
 
 categories:
