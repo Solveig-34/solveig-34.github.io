@@ -106,12 +106,12 @@ Cette semaine à été assez pénible à cause de ce vent permanent et constant 
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230607_213930.jpg" caption="Grue Chantereyne" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230608_205816.jpg" caption="Carène coquillages" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230608_205838.jpg" caption="Tas de coquillage" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_134925.jpg" caption="Tas de coquillage" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_135010.jpg" caption="Tas de coquillage" >}}
-  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_182449.jpg" caption="Tas de coquillage" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230607_213930.jpg" caption="Carénge Chantereyne" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230608_205816.jpg" caption="Carénge Chantereyne" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230608_205838.jpg" caption="Carénge Chantereyne" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_134925.jpg" caption="Carénge Chantereyne" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_135010.jpg" caption="Carénge Chantereyne" >}}
+  {{< figure src="/images/Galleries/Convoyage_Part_4/20230605/20230609_182449.jpg" caption="Remise à l'eau" >}}
 {{< /gallery >}}
 
 Solveig retrouve l'eau en fin de semaine, le vendredi 09 Juin 2023 à 17h. J'en profite pour faire le plein de Gasoil, puis on me guide vers un emplacement du port inoccupé car les pontons "visiteurs" sont réservés pour un rally Anglais qui doit arriver dès le soir même. Amarrage seul au ponton, aidé par un voisin, mais cela se fait bien en cette fin d'après midi ou le vent s'est enfin calmé.
