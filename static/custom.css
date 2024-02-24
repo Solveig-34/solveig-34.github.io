@@ -1,0 +1,61 @@
+/*
+body {
+  background: blue;
+}
+*/
+
+
+
+/*Largeur des pages */
+
+
+.container[role=main] {
+  width: 90%; /* Ou toute autre valeur désirée */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:50px;
+  flex: 1 0 auto;
+}
+
+/*------*/
+/* FONT */
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/Josefin_Slab/JosefinSlab-VariableFont_wght.ttf'), 
+       url('../fonts/Josefin_Slab/JosefinSlab-VariableFont_wght.ttf'); 
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/Titillium_Web/TitilliumWeb-Regular.ttf'), 
+       url('../fonts/Titillium_Web/TitilliumWeb-Italic.ttf');
+       url('../fonts/Titillium_Web/TitilliumWeb-Bold.ttf'); 
+}
+
+
+
+
+
+.blog-post {
+  text-align: justify;
+/*  font-family: monospace, "Open Sans";*/
+/*  font-family: "Josefin Slab";*/
+  font-family: "Titillium Web";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: regular;
+  font-size: 2.5vmin;
+ }
+
+
+.blog-tags {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
