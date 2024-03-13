@@ -8,31 +8,76 @@
     <language>fr</language>
     <managingEditor>youremail@domain.com (Solveig Sailboat)</managingEditor>
     <webMaster>youremail@domain.com (Solveig Sailboat)</webMaster>
-    <lastBuildDate>Fri, 02 Jun 2023 15:34:30 -0400</lastBuildDate><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 12:45:07 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Carénage</title>
-      <link>https://username.github.io/tags/car%C3%A9nage/</link>
-      <pubDate>Fri, 02 Jun 2023 15:34:30 -0400</pubDate>
+      <title>Camaret-sur-Mer</title>
+      <link>https://username.github.io/tags/camaret-sur-mer/</link>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
-      <guid>https://username.github.io/tags/car%C3%A9nage/</guid>
+      <guid>https://username.github.io/tags/camaret-sur-mer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cherbourg</title>
-      <link>https://username.github.io/tags/cherbourg/</link>
-      <pubDate>Fri, 02 Jun 2023 15:34:30 -0400</pubDate>
+      <title>Concarneau</title>
+      <link>https://username.github.io/tags/concarneau/</link>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
-      <guid>https://username.github.io/tags/cherbourg/</guid>
+      <guid>https://username.github.io/tags/concarneau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convoyage</title>
       <link>https://username.github.io/tags/convoyage/</link>
-      <pubDate>Fri, 02 Jun 2023 15:34:30 -0400</pubDate>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
       <author>youremail@domain.com (Solveig Sailboat)</author>
       <guid>https://username.github.io/tags/convoyage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groix</title>
+      <link>https://username.github.io/tags/groix/</link>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/groix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port-Haliguen</title>
+      <link>https://username.github.io/tags/port-haliguen/</link>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/port-haliguen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeu</title>
+      <link>https://username.github.io/tags/yeu/</link>
+      <pubDate>Wed, 23 Aug 2023 12:45:07 +0000</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/yeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherbourg</title>
+      <link>https://username.github.io/tags/cherbourg/</link>
+      <pubDate>Sun, 11 Jun 2023 15:34:30 -0400</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/cherbourg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carénage</title>
+      <link>https://username.github.io/tags/car%C3%A9nage/</link>
+      <pubDate>Fri, 02 Jun 2023 15:34:30 -0400</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/tags/car%C3%A9nage/</guid>
       <description></description>
     </item>
     

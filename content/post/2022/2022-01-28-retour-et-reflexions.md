@@ -37,7 +37,7 @@ Aujourd'hui la route présente un autre paysage, avec le bus nous longeons la me
 
 A l'approche de l'arrivée sur Aarhus la ville reprends le dessus sur ces espaces vide que représente la campagnes d'Ebeltoft. Aarhus est une grosse ville, un port de commerce conséquent, un centre ville assez important avec de nombreux commerce, des étudiants, ça bouge beaucoup plus qu'à Ebeltoft !
 
-J'attends une petite heure à Ebeltoft avant de prendre un autre bus en direction de Copenhague. Cela me permet de prendre un moment pour parcourir le centre de Aarhus.
+J'attends une petite heure à Aarhus avant de prendre un autre bus en direction de Copenhague. Cela me permet de prendre un moment pour parcourir le centre de Aarhus.
 
  * Quelques photos des rues d'Aarhus , **28 Janvier 2022** :
  {{< gallery dir="/images/Galleries/Visite_Aarhus/" />}}
@@ -56,6 +56,6 @@ Se pose alors la question d'arriver à un choix : quand à t on assez d'informat
  * Les éléments factuels suffisent ils à eux seul ou bien existe il une part non négligeable de subjectivité. 
  * Nos décisions sont elles entièrement guidées par des indicateurs cartésiens issus à 100% d'éléments factuels, ou une part d'intuition, de subjectivité vient elle se mêler à un acte, un choix.
 
-Dans mon cas, je dois concéder que je me rendais sur place afin de visiter le bateau, mais également pour rencontrer la personne qui vendait le bateau. La relation avec le vendeur est pour moi quelque chose d’assez important. L'entretien, les évolutions réalisées par l'ancien propriétaire, son histoire avec le bateau, ses intentions futures etc... les travaux qu'il aurait mené s'il avait conservé bref autant de discussion qui m'aide à prendre cette fameuse décision. 
+Dans mon cas, je dois concéder que je me rendais sur place afin de visiter le bateau, mais également pour rencontrer l'ancien propriétaire, et échanger avec lui. La relation avec le vendeur est pour moi quelque chose d’assez important. L'entretien, les évolutions réalisées par l'ancien propriétaire, son histoire avec le bateau, ses intentions futures etc... les travaux qu'il aurait mené s'il avait conservé bref autant de discussion qui m'aide à prendre cette fameuse décision. 
 
 

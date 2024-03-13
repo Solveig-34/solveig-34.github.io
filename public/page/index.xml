@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>youremail@domain.com (Solveig Sailboat)</managingEditor>
-    <webMaster>youremail@domain.com (Solveig Sailboat)</webMaster><atom:link href="https://username.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>youremail@domain.com (Solveig Sailboat)</webMaster>
+    <lastBuildDate>Sat, 09 Jan 2021 16:17:00 +0200</lastBuildDate><atom:link href="https://username.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives par années</title>
+      <link>https://username.github.io/archives/</link>
+      <pubDate>Sat, 09 Jan 2021 16:17:00 +0200</pubDate>
+      <author>youremail@domain.com (Solveig Sailboat)</author>
+      <guid>https://username.github.io/archives/</guid>
+      <description>Some text that will appear before the archive.
+2023 23 août &amp;ndash; Convoyage Partie 5
+11 juin &amp;ndash; Convoyage Partie 4b
+02 juin &amp;ndash; Convoyage Partie 4a
+2022 21 sept. &amp;ndash; Convoyage Partie 3
+12 août &amp;ndash; Convoyage Partie 2b
+04 août &amp;ndash; Convoyage Partie 2a
+26 juil. &amp;ndash; Préparatifs pour la seconde partie du convoyage
+10 mai &amp;ndash; Convoyage Partie 1
+28 janv. &amp;ndash; Retour et Réflexion
+25 janv. &amp;ndash; Visite de Solveig</description>
+    </item>
+    
     <item>
       <title>A Propos</title>
       <link>https://username.github.io/page/about/</link>

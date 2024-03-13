@@ -15,7 +15,7 @@ tags:
 ---
 ### Une Visite :
 
-Depuis plusieurs jours je cherche le meilleur compromis pour me rendre à Ebeltoft _(le point rouge sur la carte ci-dessous)_, une petite ville situé à environ 80Km de Aarhus une ville plus importante offrant plus de possibilité : un aéroport, une gare... En cette période de l'année les vols depuis la France ont tous une correspondance à l'étranger. Les vols passant par l'Angleterre sont éliminée, car je n'ai pas de visa à jour, les autres présentent de très longues heures d'escale tout en ayant des tarifs trop élevé à mon goût.
+Depuis plusieurs jours je cherche le meilleur compromis pour me rendre à Ebeltoft _(le point rouge sur la carte ci-dessous)_, une petite ville situé à environ 80Km de Aarhus une ville plus importante offrant plus de possibilité : un aéroport, une gare... En cette période de l'année les vols depuis la France ont tous une correspondance à l'étranger. Les vols passant par l'Angleterre sont éliminés, car je n'ai pas de visa à jour, les autres vols présentent de très longues heures d'escale tout en ayant des tarifs trop élevés à mon goût.
 
 
 ![Ebeltoft](/images/localisation_ebeltoft.jpg)
@@ -24,7 +24,7 @@ Après avoir éventuellement émis l'idée de m'y rendre en moto, une amie me si
 
 ### Le Voyage :
 
-Après divers recherches, au final le trajet sera :
+Après divers recherches, au final le trajet sera le suivant :
  * TGV :
     * La Rochelle _Mardi 25 Janvier 13h47_ arrivée à Paris Montparnasse _16h48_
  * Flexibus :
@@ -32,10 +32,10 @@ Après divers recherches, au final le trajet sera :
     * Gare routière de Hamboug _Mercredi à 13h55_ Arrivée à Aarhus _Mercredi 19h10_
  * Bus local (midtraffik)
     * Aarhus _Mercredi 19h17_ Arrivée à Ebeltoft _Mercredi 20h28_
-> Ce qui me fait une durée de voyage de : **~31h**
+> Ce qui donne une durée de voyage de : **~31h**
 
 Le vendeur me récupère à l'arrêt de bus, il habite juste à coté, nous passerons avec sa compagne une agréable fin de soirée en faisant chacun des efforts d'expression et de compréhension en Anglais. Je ne pratique que l'Anglais écris, à l'oral j'avoue ne pas du tout être à leur niveau, les applications de traduction nous aident à nous comprendre lorsque certains mots ou expressions sont inconnues ou trop mal prononcées.
-Le lendemain matin, un petit déjeuné avalé, nous partons visité le bateau. Ebeltoft à deux ports, un plus ancien ce travant proche de la ville ou des activités de pèche continue à s'exercer. Un autre port de plaisance à été construit un peu plus loin, à 10min en voiture, nous nous y rendons.
+Le lendemain matin, un petit déjeuné avalé, nous partons visité le bateau. Ebeltoft à deux ports, un plus ancien ce trouvant proche de la ville ou des activités de pèche continue à s'exercer. Un autre port de plaisance à été construit un peu plus loin, à 10min en voiture, nous nous y rendons.
 
 
 
